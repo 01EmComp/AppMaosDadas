@@ -31,7 +31,7 @@ Esse é um projeto open source, cujo objetivo é ajudar a conexão entre cliente
 
 ## ✨ Contribuição
 
-Voê pode acessar todos os andamentos do projeto em: Site ([Projeto Mãos Dadas](http://projetomaosdadas.emcomp.com.br/)) e o App ([Mãos Dadas](https://play.google.com/store/apps/details?id=com.emcomp.maosdadas))
+Você pode acessar todos os andamentos do projeto em: Site ([Projeto Mãos Dadas](http://projetomaosdadas.emcomp.com.br/)) e o App ([Mãos Dadas](https://play.google.com/store/apps/details?id=com.emcomp.maosdadas))
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

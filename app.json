@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Mãos Dadas",
+    "slug": "MaosDadas",
+    "platforms": ["ios", "android"],
+    "androidStatusBar": {
+      "backgroundColor": "#005200",
+      "translucent": true
+    },
+    "version": "1.3.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#005200"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.emcomp.maosdadas",
+      "versionCode": 6,
+
+      "backgroundColor": "#005200",
+      "permissions": [],
+
+      "splash": {
+        "backgroundColor": "#005200",
+
+        "resizeMode": "contain"
+      },
+
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": {
+            "scheme": "http",
+            "host": "projetomaosdadas.emcomp.com.br/api/"
+          },
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    }
+  }
+}
